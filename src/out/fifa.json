@@ -1,0 +1,82 @@
+[
+    {
+        "D": 0,
+        "L": 1,
+        "P": 6,
+        "PTS": 15,
+        "SELECION": "Argentina",
+        "W": 5
+    },
+    {
+        "D": 1,
+        "L": 1,
+        "P": 6,
+        "PTS": 13,
+        "SELECION": "Uruguay",
+        "W": 4
+    },
+    {
+        "D": 3,
+        "L": 0,
+        "P": 6,
+        "PTS": 12,
+        "SELECION": "Colombia",
+        "W": 3
+    },
+    {
+        "D": 3,
+        "L": 1,
+        "P": 6,
+        "PTS": 9,
+        "SELECION": "Venezuela",
+        "W": 2
+    },
+    {
+        "D": 2,
+        "L": 1,
+        "P": 6,
+        "PTS": 8,
+        "SELECION": "Ecuador",
+        "W": 3
+    },
+    {
+        "D": 1,
+        "L": 3,
+        "P": 6,
+        "PTS": 7,
+        "SELECION": "Brazil",
+        "W": 2
+    },
+    {
+        "D": 2,
+        "L": 3,
+        "P": 6,
+        "PTS": 5,
+        "SELECION": "Paraguay",
+        "W": 1
+    },
+    {
+        "D": 2,
+        "L": 3,
+        "P": 6,
+        "PTS": 5,
+        "SELECION": "Chile",
+        "W": 1
+    },
+    {
+        "D": 0,
+        "L": 5,
+        "P": 6,
+        "PTS": 3,
+        "SELECION": "Bolivia",
+        "W": 1
+    },
+    {
+        "D": 2,
+        "L": 4,
+        "P": 6,
+        "PTS": 2,
+        "SELECION": "Peru",
+        "W": 0
+    }
+]
