@@ -1,6 +1,6 @@
 # FIFA TABLES DATA SCRAPING
 
-This project uses data from [FIFA Standings](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/qualifiers/conmebol/standings) obtained through selenium, the html is parsed with beatifulsoup and converted in dataframe with pandas
+This project uses data from [FIFA Standings](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/qualifiers/conmebol/standings) obtained through selenium, the html is parsed with beatifulsoup and converted in dataframe with pandas.
 
 ### Tools 🛠️
 - Python
